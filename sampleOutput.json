@@ -1,0 +1,60 @@
+{
+    "status":"ok",
+    "totalResults":6,
+    "articles":[
+        {
+            "source":{"id":"bbc-sport","name":"BBC Sport"},
+            "author":null,
+            "title":"All-rounder Moeen rules out England Test return",
+            "description":"All-rounder Moeen Ali rules out a Test comeback for England's tour of Pakistan in December, saying he is \"done\" with Test cricket.",
+            "url":"http://www.bbc.co.uk/sport/cricket/63122289",
+            "urlToImage":"https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1EA6/production/_126964870_gettyimages-1341644303-1.jpg",
+            "publishedAt":"2022-10-04T09:22:28.7685323Z",
+            "content":"England won their recent T20 series in Pakistan 4-3 under Moeen's leadership\r\nAll-rounder Moeen Ali has ruled out a Test comeback for England's tour of Pakistan in December, saying he is \"done\" with … [+2338 chars]"},
+        {
+            "source":{"id":"news24","name":"News24"},
+            "author":"Lynn Butler",
+            "title":"Proteas seek two head coaches to replace outgoing Boucher: 'We have to move forward'",
+            "description":"CSA Director of Cricket Enoch Nkwe confirmed that they're looking to split the head coach role into two after Mark Boucher's tenure at this month's T20 World Cup.",
+            "url":"https://www.news24.com/sport/Cricket/Proteas/proteas-seek-2-head-coaches-to-replace-outgoing-boucher-we-have-to-move-forward-20221004",
+            "urlToImage":"https://cdn.24.co.za/files/Cms/General/d/3609/2dc2d0aaed424d2a9b5f843a9aa80691.jpg",
+            "publishedAt":"2022-10-04T09:19:47+00:00",
+            "content":"Cricket South Africa (CSA) Director of Cricket Enoch Nkwe has confirmed that they're looking to split the head coach role into two after Mark Boucher's tenure ends at this month's T20 World Cup in Au… [+3239 chars]"},
+        {
+            "source":{"id":"bbc-sport","name":"BBC Sport"},
+            "author":null,
+            "title":"Paine returns to top level after lewd texts absence",
+            "description":"Former Australia captain Tim Paine is set to return to elite cricket after being named in the Tasmania squad.",
+            "url":"http://www.bbc.co.uk/sport/cricket/63127834",
+            "urlToImage":"https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1364C/production/_126963497_gettyimages-1311037408.jpg",
+            "publishedAt":"2022-10-04T08:37:30.9245079Z",
+            "content":"Paine took over as Australia captain after Steve Smith was banned\r\nFormer Australia captain Tim Paine is set to return to elite-level cricket on Thursday for the first time since details of historica… [+1722 chars]"},
+        {
+            "source":{"id":"abc-news-au","name":"ABC News (AU)"},
+            "author":"David Mark",
+            "title":"'It would be an unbelievable honour': Alyssa Healy puts her hand up for Australian captaincy",
+            "description":"With Meg Lanning's sabbatical, women's cricket in Australia needs a new leader and Alyssa Healy has put her hand up to take the role should the armband pass to her.",
+            "url":"http://www.abc.net.au/news/2022-10-04/alyssa-healy-puts-her-hand-up-for-australian-captaincy/101500952",
+            "urlToImage":"https://live-production.wcms.abc-cdn.net.au/11c9f5c2fae1d05fcc0932dc4ed79d6c?impolicy=wcms_crop_resize&cropH=1860&cropW=3307&xPos=0&yPos=167&width=862&height=485",
+            "publishedAt":"2022-10-04T06:26:00Z",
+            "content":"The Australian women's cricket team's wicketkeeper and opening batter Alyssa Healy has said she'd be honoured to captain the side.\r\n<ul><li>Meg Lanning's sabbatical has left Australian women's cricke… [+3403 chars]"},
+        {
+            "source":{"id":"espn-cric-info","name":"ESPN Cric Info"},
+            "author":null,
+            "title":"PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description":"Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url":"http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt":"2020-04-27T11:41:47Z",
+            "content":"Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"},
+        {
+            "source":{"id":"espn-cric-info","name":"ESPN Cric Info"},
+            "author":null,
+            "title":"What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description":"Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url":"http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage":"https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt":"2020-03-30T15:26:05Z",
+            "content":"Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"}
+        ]
+    }
